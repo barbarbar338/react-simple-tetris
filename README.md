@@ -37,7 +37,7 @@
 
 ```js
 const React = require("react");
-const Tetris = require("@leydihavuc/react-simple-tetris");
+const Tetris = require("react-simple-tetris");
 
 const App = () => (
 	<div>
